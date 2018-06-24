@@ -41,6 +41,7 @@ public class Zadaniefigury {
                     System.out.print("*");
                 }
             } else {
+                System.out.println();
 
 
 
